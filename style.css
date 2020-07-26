@@ -1,0 +1,85 @@
+body {
+
+}
+
+header{
+
+	font-size: 50px;
+	font-family: sans-serif;
+	text-align: left;
+	padding: 20px;
+
+}
+
+#banner {
+
+	width: 100%;
+}
+
+.principal {
+	background-color:  #cccccc;
+	padding: 30px;
+	
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+	font-family: sans-serif;
+	color:   #ffffcc;
+}
+
+h2 {
+
+	text-align: center;
+	font-family: sans-serif;
+	font-style: 40px;
+	color: #000000;
+}
+
+p {
+	text-align: center;
+	font-size: 18px;
+	font-family: sans-serif;
+}
+
+#missao {
+	font-size: 20px;
+
+}
+
+em strong{
+
+	color: #ffff99
+;
+}
+
+.itens {
+
+	font-style: italic;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+.Beneficios {
+
+	font-size: 30px;
+	background-color: white;
+	padding: 20px;
+}
+
+ul {
+
+	display:inline-block;
+	vertical-align: top;
+	width: 30%;
+	margin-right: 15%
+
+}
+
+.imagem_beneficios {
+
+	width: 50%
+}
+
+
